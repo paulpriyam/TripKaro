@@ -3,6 +3,7 @@ package com.example.mytravel.ui.theme.ui.screens.profile
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.mytravel.ui.theme.data.model.User
+import com.example.mytravel.ui.theme.data.repository.TravelRepository
 import com.example.mytravel.ui.theme.data.repository.UserRepository
 import com.example.mytravel.ui.theme.utils.Resource
 import com.example.mytravel.ui.theme.utils.UiState
