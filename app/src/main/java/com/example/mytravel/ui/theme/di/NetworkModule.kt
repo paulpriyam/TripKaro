@@ -62,9 +62,9 @@ object NetworkModule {
             .build()
     }
 
-    @Singleton
-    @Provides
-    fun provideTravelApiService(retrofit: Retrofit): TravelApiService {
-        return retrofit.create(TravelApiService::class.java)
-    }
+//    @Singleton
+//    @Provides
+//    fun provideTravelApiService(retrofit: Retrofit): TravelApiService {
+//        return retrofit.create(TravelApiService::class.java)
+//    }
 }
