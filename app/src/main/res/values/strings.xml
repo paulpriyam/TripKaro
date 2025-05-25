@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyTravel</string>
+
+    <!-- Navigation Strings -->
+    <string name="screen_members">Members</string>
+    <string name="screen_itinerary">Itinerary</string>
+    <string name="screen_expenses">Expenses</string>
+    <string name="screen_bookings">Bookings</string>
+    <string name="screen_profile">Profile</string>
+
+    <!-- Member Screen -->
+    <string name="add_member">Add Member</string>
+    <string name="trip_members">Trip Members</string>
+
+    <!-- Itinerary Screen -->
+    <string name="day_format">Day %d</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+
+    <!-- Expense Screen -->
+    <string name="trip_budget">Trip Budget</string>
+    <string name="remaining">Remaining</string>
+    <string name="shared_expenses">Shared Expenses</string>
+    <string name="individual_expenses">Individual Expenses</string>
+    <string name="expense_details">Expense Details</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="contributions">Contributions</string>
+    <string name="add_contribution">Add Contribution</string>
+
+    <!-- Bookings Screen -->
+    <string name="flights">Flights</string>
+    <string name="accommodations">Accommodations</string>
+    <string name="activities">Activities</string>
+
+    <!-- Expense Categories -->
+    <string name="category_transportation">Transportation</string>
+    <string name="category_food">Food</string>
+    <string name="category_activities">Activities</string>
+    <string name="category_shopping">Shopping</string>
+
+    <!-- General -->
+    <string name="total">Total</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+</resources>
